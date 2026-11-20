@@ -1,0 +1,315 @@
+{
+ "widths": {
+  "1440": {
+   "vw": 1440,
+   "sw": 1440,
+   "overflow": false,
+   "over": [],
+   "imgs": 21,
+   "broken": [],
+   "missing": [],
+   "small": [],
+   "h1": 1,
+   "errors": [],
+   "bad": []
+  },
+  "1366": {
+   "vw": 1366,
+   "sw": 1366,
+   "overflow": false,
+   "over": [],
+   "imgs": 21,
+   "broken": [],
+   "missing": [],
+   "small": [],
+   "h1": 1,
+   "errors": [],
+   "bad": []
+  },
+  "1280": {
+   "vw": 1280,
+   "sw": 1280,
+   "overflow": false,
+   "over": [],
+   "imgs": 21,
+   "broken": [],
+   "missing": [],
+   "small": [],
+   "h1": 1,
+   "errors": [],
+   "bad": []
+  },
+  "1024": {
+   "vw": 1024,
+   "sw": 1024,
+   "overflow": false,
+   "over": [],
+   "imgs": 21,
+   "broken": [],
+   "missing": [],
+   "small": [],
+   "h1": 1,
+   "errors": [],
+   "bad": []
+  },
+  "768": {
+   "vw": 768,
+   "sw": 768,
+   "overflow": false,
+   "over": [],
+   "imgs": 21,
+   "broken": [],
+   "missing": [],
+   "small": [],
+   "h1": 1,
+   "errors": [],
+   "bad": []
+  },
+  "430": {
+   "vw": 430,
+   "sw": 430,
+   "overflow": false,
+   "over": [],
+   "imgs": 21,
+   "broken": [],
+   "missing": [],
+   "small": [],
+   "h1": 1,
+   "errors": [],
+   "bad": []
+  },
+  "390": {
+   "vw": 390,
+   "sw": 390,
+   "overflow": false,
+   "over": [],
+   "imgs": 21,
+   "broken": [],
+   "missing": [],
+   "small": [],
+   "h1": 1,
+   "errors": [],
+   "bad": []
+  },
+  "375": {
+   "vw": 375,
+   "sw": 375,
+   "overflow": false,
+   "over": [],
+   "imgs": 21,
+   "broken": [],
+   "missing": [],
+   "small": [],
+   "h1": 1,
+   "errors": [],
+   "bad": []
+  },
+  "360": {
+   "vw": 360,
+   "sw": 360,
+   "overflow": false,
+   "over": [],
+   "imgs": 21,
+   "broken": [],
+   "missing": [],
+   "small": [],
+   "h1": 1,
+   "errors": [],
+   "bad": []
+  }
+ },
+ "interactions": {
+  "hero_slider": {
+   "next": [
+    "0",
+    "1"
+   ],
+   "step3": [
+    "2",
+    true
+   ],
+   "pause_pressed": "true",
+   "pass": true
+  },
+  "hero_autoplay": {
+   "slide": "1",
+   "pass": true
+  },
+  "marquee_running": {
+   "t": [
+    10232.885000000148,
+    10832.885000000148
+   ],
+   "pass": true
+  },
+  "finder": {
+   "puc": 4,
+   "mont": [
+    "Jamkhandi"
+   ],
+   "school": [
+    "Hulyal",
+    "Vijayapura"
+   ],
+   "degree": [
+    "Jamkhandi"
+   ],
+   "hostel_puc": [
+    "Hulyal",
+    "Bagalkot",
+    "Vijayapura"
+   ],
+   "empty_msg": true,
+   "after_showpuc": 3,
+   "pass": true
+  },
+  "finder_prefill": {
+   "campus_programme": [
+    "vijayapura",
+    "cbse-6-10"
+   ],
+   "pass": true
+  },
+  "programme_tabs": {
+   "after2down": [
+    "pt2",
+    "PU Science",
+    [
+     "Jamkhandi",
+     "Hulyal",
+     "Bagalkot",
+     "Vijayapura"
+    ]
+   ],
+   "end": [
+    "Undergraduate Programmes",
+    [
+     "Jamkhandi"
+    ]
+   ],
+   "pass": true
+  },
+  "campus_from_chip": {
+   "open": "jamkhandi",
+   "pass": true
+  },
+  "campus_panels": {
+   "state": [
+    "bagalkot",
+    1,
+    true,
+    "true"
+   ],
+   "pass": true
+  },
+  "campus_enquire": {
+   "campus": "bagalkot",
+   "pass": true
+  },
+  "form": {
+   "bagalkot_opts": [
+    "",
+    "puc"
+   ],
+   "hostel_row_bagalkot_puc": true,
+   "jamkhandi_opts": [
+    "",
+    "montessori-stream",
+    "state-primary",
+    "puc",
+    "bsc",
+    "bca"
+   ],
+   "hostel_hidden_jamkhandi": true,
+   "empty_submit_errors": 5,
+   "first_focus": "student_name",
+   "phone_error": "Enter a valid 10-digit mobile number.",
+   "progress": "1.00",
+   "submitted": true,
+   "pass": true
+  },
+  "life_carousel": {
+   "scroll": [
+    0,
+    342,
+    342
+   ],
+   "pass": false
+  },
+  "counters": {
+   "values": [
+    "4",
+    "367",
+    "43",
+    "34",
+    "9"
+   ],
+   "pass": true
+  },
+  "big25": {
+   "text": "25",
+   "pass": true
+  },
+  "mobile_menu": {
+   "opened": [
+    true,
+    ""
+   ],
+   "tab_seq": [
+    "l",
+    "l",
+    "l",
+    "l",
+    "l",
+    "l",
+    "btn btn--gold",
+    "A",
+    "burger"
+   ],
+   "trapped": true,
+   "esc_closed_focus_burger": [
+    true,
+    "burger"
+   ],
+   "link_nav": [
+    true,
+    -0.0
+   ],
+   "pass": true
+  },
+  "mobile_campus_accordion": {
+   "heights": [
+    92,
+    92,
+    92,
+    600
+   ],
+   "pass": true
+  }
+ },
+ "a11y": {
+  "1440": {
+   "violations": [],
+   "passes": 51
+  },
+  "390": {
+   "violations": [],
+   "passes": 51
+  }
+ },
+ "perf": {
+  "lcp_ms": 1424,
+  "cls": 0.0004,
+  "initial_transfer_kb": 406,
+  "full_scroll_transfer_kb": 579,
+  "profile": "390px, 1.6 Mbps, 150ms RTT, 4x CPU slowdown"
+ },
+ "reduced": {
+  "autoplay_off": true,
+  "marquee_animations": 0,
+  "reveals_visible": true,
+  "custom_cursor_off": true,
+  "big25": "25",
+  "pass": true
+ }
+}
